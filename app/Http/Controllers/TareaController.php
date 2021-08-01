@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 
 class TareaController extends Controller
 {
-    private const MESSAGE = 'Algo salió mal';
+    private const MESSAGE = 'Algo anda mal';
     /**
      * Display a listing of the resource.
      *
